@@ -23,7 +23,6 @@ URLS = [
 # 페이지 설정
 st.set_page_config(
     page_title="스트림릿 앱 오프너", page_icon="🌐", layout="wide"
-    layout="wide"
 )
 
 # 제목 및 설명
